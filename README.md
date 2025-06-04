@@ -5,9 +5,14 @@
 
 # 📢Atividade GitHub - Professora: Samara Sampaio
 Grupo:
+
 • Bernardo Ramos dos Santos
+
 • Arthur Pereira Silva
+
 • Helder Luiz Silva Lima Filho
+
 • Luiz Gustavo Barbosa Machado
+
 • Rodrigo Lira Rodrigues
 
