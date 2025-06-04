@@ -3,5 +3,5 @@
 </p>
 
 
-# 📢Aividade GitHub - Professora: Samara Sampaio
+# 📢Atividade GitHub - Professora: Samara Sampaio
 
