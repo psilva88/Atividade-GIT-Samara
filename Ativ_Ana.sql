@@ -1,3 +1,6 @@
+-- cd "C:\Program Files\MySQL\MySQL Server 8.0\bin"
+-- .\mysqldump.exe -u root -p --no-tablespaces multiverso --result-file="C:\Users\2513080006\Desktop\Arthur_Pereira_Silva_Atividade02_dump.sql"
+
 -- ============================================================================
 --  ATIVIDADE PRÁTICA 02 - "Banco de Dados dos Heróis e Vilões Multiversais"
 --  Conteúdo: Segurança + Otimização (MySQL 8.0)
